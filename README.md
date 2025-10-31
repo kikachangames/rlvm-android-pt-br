@@ -4,7 +4,7 @@ O rlvm (RealLive Virtual Machine) é um reimplementação em código aberto da e
 Para maiores informações sobre as VNs suportadas e código fonte, acesse: https://github.com/eglaysher/rlvm.
 
 # rlvm-android
-Port do rlvm para Android (maiores informações em: https://github.com/xyzz/rlvm-android).
+Port do rlvm para Android. Maiores informações em: https://github.com/xyzz/rlvm-android.
 
 # rlvm-android-pt-br
 Modificação do port para facilitar a aplicação dos patches de tradução pt-br da [Taiyaki Club](https://taiyakiclub.wordpress.com/) e [Kikachan Games](https://kikachangames.github.io/projetos/).
