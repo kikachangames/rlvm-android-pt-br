@@ -7,6 +7,8 @@ Para maiores informações sobre as VNs suportadas e código fonte, acesse: http
 Port do rlvm para Android. Maiores informações em: https://github.com/xyzz/rlvm-android.
 
 # rlvm-android-pt-br
+![AIR rodando no Android](img/air_tablet.jpg)
+
 Modificação do port para facilitar a aplicação dos patches de tradução pt-br da [Taiyaki Club](https://taiyakiclub.wordpress.com/) e [Kikachan Games](https://kikachangames.github.io/projetos/).
 
 ## Implementações
