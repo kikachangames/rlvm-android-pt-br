@@ -1,6 +1,6 @@
 # O que é rlvm?
 
-O rlvm (RealLive Virtual Machine) é um reimplementação em código aberto da engine RealLive, usada nas visual novels da Key/VisualArt’s (Kanon, AIR, CLANNAD, Little Busters! etc).
+O rlvm (RealLive Virtual Machine) é uma reimplementação em código aberto da engine RealLive, usada nas visual novels da Key/VisualArt’s (Kanon, AIR, CLANNAD, Little Busters! etc).
 Para maiores informações sobre as VNs suportadas e código fonte, acesse: https://github.com/eglaysher/rlvm.
 
 # rlvm-android
