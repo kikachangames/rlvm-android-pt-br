@@ -29,7 +29,7 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 Kanon e AIR usam a mesma fonte modificada. Então, na prática, você pode usar a mesma versão do rlvm para rodar os patches de ambas as traduções.
 CLANNAD utiliza outra fonte e você precisará da versão específica para rodar o patch. Certamente o android não irá permitir a instalação de dois rlvm*.apk. Nesse caso, seja paciente, termine um jogo antes de iniciar outro :relaxed:.
 
-:warning: Abrir outras VNs com nossos apk modificados poderão ocasionar em erros nos textos, já que embutimos fonte com substituição de caracteres para suportar acentuação em nossas traduções.
+:warning: Abrir outras VNs com nossos apk modificados poderá ocasionar em erros nos textos, já que embutimos uma fonte com substituição de caracteres para suportar a acentuação em nossas traduções.
 
 ## Quero desenvolver minha própria versão do rlvm-android
 Dê uma olhada em https://github.com/AndnixSH/APKToolGUI.
