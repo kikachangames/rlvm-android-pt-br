@@ -31,5 +31,5 @@ CLANNAD utiliza outra fonte e você precisará da versão específica para rodar
 
 :warning: Abrir outras VNs com nossos apk modificados poderão ocasionar em erros nos textos, já que embutimos fonte com substituição de caracteres para suportar acentuação.
 
-## Quero desenvolver minha própria versão do rlvm
+## Quero desenvolver minha própria versão do rlvm-android
 Dê uma olhada em https://github.com/AndnixSH/APKToolGUI.
