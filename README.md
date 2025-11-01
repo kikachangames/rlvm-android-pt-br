@@ -15,7 +15,7 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 - Fonte modificada embutida.
 - Atualização de sdk para rodar em versões mais atuais do Android.
 
-## Jogos suportados
+## Jogos traduzidos suportados
 - Kanon
 - AIR
 - CLANNAD
