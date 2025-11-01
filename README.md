@@ -23,7 +23,7 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 ## Como usar
 - Instale o .apk.
 - Nas configurações do Android, dê permissão para o rlvm acessar as pastas.
-- Abra o rlvm e selecione a pasta onde estão os arquivos do jogo.
+- Abra o rlvm e selecione a pasta onde estão os arquivos do jogo com o patch previamente aplicado.
 
 ## Bugs conhecidos
 Kanon e AIR usam a mesma fonte modificada. Então, na prática, você pode usar a mesma versão do rlvm para rodar os patches de ambas as traduções.
