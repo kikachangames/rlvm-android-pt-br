@@ -25,7 +25,7 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 - Nas configurações do Android, dê permissão para o rlvm acessar as pastas.
 - Abra o rlvm e selecione a pasta onde estão os arquivos do jogo com o patch previamente aplicado.
 
-## Bugs conhecidos
+## Observações
 Kanon e AIR usam a mesma fonte modificada. Então, na prática, você pode usar a mesma versão do rlvm para rodar os patches de ambas as traduções.
 CLANNAD utiliza outra fonte e você precisará da versão específica para rodar o patch. Certamente o android não irá permitir a instalação de dois rlvm*.apk. Nesse caso, seja paciente, termine um jogo antes de iniciar outro :relaxed:.
 
