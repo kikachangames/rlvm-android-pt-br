@@ -16,9 +16,9 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 - Atualização de sdk para rodar em versões mais atuais do Android.
 
 ## Jogos traduzidos suportados
-- Kanon (Standard Edition)
-- AIR (Standard Edition)
-- CLANNAD (Full Voice)
+- Kanon (Standard Edition - Tradução: Taiyaki Club)
+- AIR (Standard Edition - Tradução: Kikachan Games)
+- CLANNAD (Full Voice - Tradução: Zero Force Translations)
 
 ## Como usar
 - Instale o .apk.
