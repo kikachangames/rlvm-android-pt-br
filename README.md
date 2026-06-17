@@ -9,7 +9,7 @@ Port do rlvm para Android. Maiores informações em: https://github.com/xyzz/rlv
 # rlvm-android-pt-br
 ![AIR rodando no Android](img/air_tablet.jpg)
 
-Modificação do port para facilitar a aplicação dos patches de tradução pt-br da [Taiyaki Club](https://taiyakiclub.wordpress.com/) e [Kikachan Games](https://kikachangames.github.io/projetos/).
+Modificação do port para facilitar a aplicação dos patches de tradução pt-br da [Zero Force Translations](https://zeroforcetranslations.wordpress.com/), [Taiyaki Club](https://taiyakiclub.wordpress.com/) e [Kikachan Games](https://kikachangames.github.io/projetos/).
 
 ## Implementações
 - Fonte modificada embutida.
