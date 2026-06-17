@@ -16,9 +16,9 @@ Modificação do port para facilitar a aplicação dos patches de tradução pt-
 - Atualização de sdk para rodar em versões mais atuais do Android.
 
 ## Jogos traduzidos suportados
-- Kanon
-- AIR
-- CLANNAD
+- Kanon (Standard Edition)
+- AIR (Standard Edition)
+- CLANNAD (Full Voice)
 
 ## Como usar
 - Instale o .apk.
